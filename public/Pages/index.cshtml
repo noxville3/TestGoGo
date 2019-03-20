@@ -1,0 +1,42 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<div class="bgimg">
+
+    <div class="text-center">
+        @*<img src="./logo.png" width="128" height="128">*@
+        @*<h1 class="display-4">The </h1>
+        <h1 class="display-4">Van Gogh </h1>
+        <h1 class="display-4">Museum </h1>*@
+
+        <img src="~/images/logo.png" alt="logo">
+
+        <div class="row">
+
+        </div>
+        <br />
+        <div class="row2">
+            <form action="Art">
+                <input type="submit" href="/Pages/Art.html" class="btn-light" style="height:50px;width:240px" />
+            </form>
+            <form action="News">
+                <input type="submit" value="News" class="btn-light" style="height:50px;width:240px" />
+            </form>
+            <form action="Events">
+                <input type="submit" value="Events" class="btn-light" style="height:50px;width:240px" />
+            </form>
+            <form action="Map">
+                <input type="submit" value="Map" class="btn-light" style="height:50px;width:240px" />
+            </form>
+        </div>
+        @*<button type="submit" formaction="Art" class="btn btn-light">Art</button>
+        <button type="button" class="btn btn-light">News</button>
+        <button type="button" class="btn btn-light">Events</button>
+        <button type="button" class="btn btn-light">Map</button>*@
+    </div>
+</div>

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{F1BD4B54-E5C1-41F2-A822-12994FF90943}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="htmlPages/Events.html">
+    <Files>
+      <File FileName="index.html" Line="7" Column="57" />
+      <File FileName="htmlPages/News.html" Line="4" Column="1" />
+      <File FileName="htmlPages/Events.html" Line="9" Column="2" />
+      <File FileName="htmlPages/Map.html" Line="36" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VanGoGo" expanded="True">
+            <Node name="VanGoGo" expanded="True">
+              <Node name="htmlPages" expanded="True">
+                <Node name="Events.html" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.VanGoGo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
